@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# iWeather Ionic 3 Weather App
 
-This is an Ionic 3 application that uses the wunderground api to report weather and stores location info in Ionic storage
+# IONIC-3 Simple Weather App
+
+It is an Ionic 3 application that uses the wunderground api to report weather and stores location info in Ionic storage
 
 ### Version
 1.0.0
@@ -44,7 +44,4 @@ To build APK file to output folder
 ```sh
 $ ionic build android
 ```
-=======
-# IONIC-3-SIMPLE-WEATHER-APP
-IONIC-3 SIMPLE WEATHER APP
->>>>>>> 66418fdf474326dac91513e3a40cc7a6557d8a23
+
